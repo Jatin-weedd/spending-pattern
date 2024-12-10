@@ -1,0 +1,1 @@
+var json_YourStore_1 = {"type":"FeatureCollection","name":"YourStore_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null},"geometry":{"type":"MultiPoint","coordinates":[[77.141799380949465,28.700012851184361]]}}]}
